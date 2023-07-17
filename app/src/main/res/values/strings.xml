@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicPlayerFromDirectory</string>
+    <string name="file_button">Choose file</string>
+    <string name="directory_button">Choose directory</string>
+    <string name="home_bottom_menu">Home</string>
+    <string name="directory_bottom_menu">Directory</string>
+    <string name="settings_bottom_menu">Settings</string>
+    <string name="choose_player">Choose player</string>
+    <string name="volume">Volume</string>
+</resources>
